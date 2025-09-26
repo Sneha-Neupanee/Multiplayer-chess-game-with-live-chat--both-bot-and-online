@@ -5,11 +5,9 @@ A fully functional chess game with:
 - Node.js + Socket.IO backend (real-time)
 - Online 2‑player matches with live chat
 - Offline vs. Bot mode
-- Colorful UI and capture splash with 👅💦
-- Win/Lose toasts:
-  - Win: **"you've won you freaky dreaky"**
-  - Lose: **"youre not a real freak"**
-- Auto-suggest chat lines: *"you'll never win, you ain't real freak🥀🥀"* and *"sybau bum"*
+- Colorful UI and capture splash with 
+- Win/Lose toasts
+- Auto-suggest chat lines
 
 ## Quick Start
 
