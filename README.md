@@ -1,4 +1,4 @@
-# Pawn Me Freak ♟️
+
 
 A fully functional chess game with:
 - React (Vite) frontend
